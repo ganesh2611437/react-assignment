@@ -4,7 +4,7 @@ import { CssBaseline, Container } from '@mui/material';
 import Counter from './components/Counter';
 import UserDataForm from './components/UserDataForm';
 import RichTextEditor from './components/RichTextEditor';
-import Dashboard from './components/Dashboard';
+//import Dashboard from './components/Dashboard';
 import Home from './pages/Home';
 import DashboardPage from './pages/DashboardPage';
 
